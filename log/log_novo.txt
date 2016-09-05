@@ -1,0 +1,4 @@
+2016-09-04 17:06:18 :: Inserindo produto novo
+2016-09-04 17:06:18 :: select * from produto where id = 0
+2016-09-04 17:06:18 :: select max(id) from produto
+2016-09-04 17:06:18 :: insert into produto (descricao, estoque, preco_custo, preco_venda, codigo_barras, data_cadastro, origem, id ) values ('Cerveja artesanal IPA', 50, 8, 12, '1128734618', '2016-09-04', 'N', 6 )
